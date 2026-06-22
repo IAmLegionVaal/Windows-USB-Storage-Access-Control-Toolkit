@@ -4,6 +4,7 @@ cd /d "%~dp0"
 
 :menu
 set "ACTION="
+set "CHOICE="
 cls
 echo ============================================================
 echo   USB STORAGE ACCESS CONTROL TOOLKIT
