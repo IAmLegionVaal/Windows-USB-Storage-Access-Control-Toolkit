@@ -1,0 +1,6 @@
+USB_Storage_Access_Control_*/
+*.reg
+*.log
+before.json
+after.json
+*-usb-devices.csv
